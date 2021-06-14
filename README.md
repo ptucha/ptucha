@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ptucha
+- 👋 Hi, my name is Pavel
 - 👀 I’m interested in Java/Frontend development
 - 🌱 I’m currently learning JEE stack
 - 💞️ I’m looking to collaborate on tasks around WildFly/EJB etc
